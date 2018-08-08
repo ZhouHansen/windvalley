@@ -15,7 +15,7 @@ class Component extends Nanocomponent {
         <main class='w-100 flex flex-column flex-auto bg-dz items-center'>
             <h1>风之谷现状</h1>
             <p class='w-90 indent pb1'>
-                目前组织里的成员正在做两件事：一是会长正在用家里的剩菜剩饭做堆肥实验，为下一步垃圾
+                目前组织正在做两件事：一是会长正在用家里的剩菜剩饭做堆肥实验，为下一步垃圾
                 分类推广的工作做准备。              
             </p>
             <p class='w-90 indent pb1'>
