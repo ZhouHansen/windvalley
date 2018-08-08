@@ -11,7 +11,7 @@ p{
 main::after {
     content: '';
     background: url('../../assets/bg.jpg') #edd29d;
-    background-repeat: none;
+    background-repeat: repeat-y;
     background-size: 100% auto;
     height: 130%;
     opacity: 0.2;
