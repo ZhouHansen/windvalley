@@ -1,0 +1,22 @@
+h1{
+    font-family: cursive;
+    -webkit-font-smoothing: antialiased;  
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}
+
+body::after {
+    content: '';
+    background: url('../../assets/bg.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;    
+}
